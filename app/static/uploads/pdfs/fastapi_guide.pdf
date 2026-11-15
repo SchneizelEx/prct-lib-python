@@ -1,0 +1,160 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages /Count 3 /Kids [ 4 0 R 6 0 R 8 0 R ] >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Contents 5 0 R /Resources << /Font << /F1 10 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 728 >>
+stream
+BT
+/F1 15 Tf
+50 780 Td
+24 TL
+(FastAPI & Modern Python Web Guide) Tj
+T*
+() Tj
+T*
+(Chapter 1: Introduction to FastAPI) Tj
+T*
+(FastAPI is a modern, fast \(high-performance\) web framework) Tj
+T*
+(for building APIs with Python 3.8+ based on standard Python type hints.) Tj
+T*
+() Tj
+T*
+(Key Highlights:) Tj
+T*
+(- Fast: Very high performance, on par with NodeJS and Go) Tj
+T*
+(- Fast to code: Increases speed to develop features by 200% to 300%) Tj
+T*
+(- Fewer bugs: Reduces about 40% of developer induced errors) Tj
+T*
+(- Intuitive: Great editor support, auto-completion everywhere) Tj
+T*
+(- Easy: Designed to be easy to use and learn) Tj
+T*
+(- Standards-based: Based on OpenAPI and JSON Schema) Tj
+T*
+() Tj
+T*
+(Page 1 of 3) Tj
+T*
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Contents 7 0 R /Resources << /Font << /F1 10 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 731 >>
+stream
+BT
+/F1 15 Tf
+50 780 Td
+24 TL
+(Chapter 2: Production Deployment on Render.com) Tj
+T*
+() Tj
+T*
+(Deploying FastAPI on Render.com is simple and powerful:) Tj
+T*
+() Tj
+T*
+(1. Web Service Configuration:) Tj
+T*
+(   - Environment: Python 3.12) Tj
+T*
+(   - Build Command: pip install -r requirements.txt) Tj
+T*
+(   - Start Command: uvicorn app.main:app --host 0.0.0.0 --port $PORT) Tj
+T*
+() Tj
+T*
+(2. Environment Variables:) Tj
+T*
+(   - Set SECRET_KEY for secure cookie sessions) Tj
+T*
+(   - Connect managed PostgreSQL or SQLite) Tj
+T*
+() Tj
+T*
+(3. Mobile Responsiveness:) Tj
+T*
+(   - The mobile-first reader provides smooth PDF canvas rendering) Tj
+T*
+(   - Touch zoom, dark mode, and page bookmarks.) Tj
+T*
+() Tj
+T*
+(Page 2 of 3) Tj
+T*
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Contents 9 0 R /Resources << /Font << /F1 10 0 R >> >> >>
+endobj
+9 0 obj
+<< /Length 512 >>
+stream
+BT
+/F1 15 Tf
+50 780 Td
+24 TL
+(Chapter 3: PDF Document Architecture & Best Practices) Tj
+T*
+() Tj
+T*
+(When building digital libraries:) Tj
+T*
+(- Validate PDF mime types on upload \(application/pdf\)) Tj
+T*
+(- Stream files with range requests for fast mobile reading) Tj
+T*
+(- Track user reading progress across devices) Tj
+T*
+(- Role-based access control ensures secure content delivery) Tj
+T*
+() Tj
+T*
+(Thank you for reading this guide!) Tj
+T*
+(PRCT Digital Library System.) Tj
+T*
+() Tj
+T*
+(Page 3 of 3) Tj
+T*
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000104 00000 n 
+0000000175 00000 n 
+0000000302 00000 n 
+0000001081 00000 n 
+0000001208 00000 n 
+0000001990 00000 n 
+0000002117 00000 n 
+0000002680 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+2751
+%%EOF
